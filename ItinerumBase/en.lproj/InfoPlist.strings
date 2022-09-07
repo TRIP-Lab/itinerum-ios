@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  ItinerumBase
+
+  Created by Chandramani choudhary on 9/23/18.
+  Copyright © 2018 Chandramani choudhary. All rights reserved.
+*/
+
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Please allow it to access location \"Always\" in settings";
+"NSLocationWhenInUseUsageDescription" = "Please allow it to access location \"Always\" in settings";
+"NSLocationAlwaysUsageDescription" = "Please allow it to access location \"Always\" in settings";
+"NSMotionUsageDescription" = "DataMobile keeps track of your activity throughout the day.s";
+

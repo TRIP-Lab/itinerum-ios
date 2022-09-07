@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="VPY-Tn-Nnh">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="NunitoSans-Regular.ttf">
+            <string>NunitoSans-Regular</string>
+        </array>
+    </customFonts>
+    <scenes>
+        <!--Survey CompleteVC-->
+        <scene sceneID="Rqe-vz-HE9">
+            <objects>
+                <viewController storyboardIdentifier="SurveyCompleteVC" id="VPY-Tn-Nnh" customClass="SurveyCompleteVC" customModule="ItinerumBase" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="xU7-rB-GlX">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" image="trajetLogo" translatesAutoresizingMaskIntoConstraints="NO" id="0lP-hI-9qQ">
+                                <rect key="frame" x="0.0" y="45" width="375" height="57"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="57" id="PMK-iA-fra"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="🎉" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1d0-JC-hkc">
+                                <rect key="frame" x="0.0" y="132" width="375" height="80"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="80" id="5V8-CG-MZg"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="50"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Thankyou" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hRV-KC-HA8">
+                                <rect key="frame" x="20" y="212" width="335" height="61.5"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" priority="250" constant="100" id="3g0-e6-6Sx"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="NunitoSans-Regular" family="Nunito Sans" pointSize="45"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="0lP-hI-9qQ" firstAttribute="top" secondItem="hPy-9q-ahr" secondAttribute="top" constant="25" id="3Ic-pi-4Uz"/>
+                            <constraint firstItem="1d0-JC-hkc" firstAttribute="leading" secondItem="hPy-9q-ahr" secondAttribute="leading" id="ASw-Hz-uW2"/>
+                            <constraint firstItem="1d0-JC-hkc" firstAttribute="top" secondItem="0lP-hI-9qQ" secondAttribute="bottom" constant="30" id="EcT-md-ljX"/>
+                            <constraint firstItem="hRV-KC-HA8" firstAttribute="leading" secondItem="hPy-9q-ahr" secondAttribute="leading" constant="20" id="OpK-Hm-0Yr"/>
+                            <constraint firstItem="hPy-9q-ahr" firstAttribute="trailing" secondItem="0lP-hI-9qQ" secondAttribute="trailing" id="QTn-Fo-i7G"/>
+                            <constraint firstItem="hRV-KC-HA8" firstAttribute="top" secondItem="1d0-JC-hkc" secondAttribute="bottom" id="aXn-Au-evA"/>
+                            <constraint firstItem="0lP-hI-9qQ" firstAttribute="leading" secondItem="hPy-9q-ahr" secondAttribute="leading" id="bcM-yM-3bz"/>
+                            <constraint firstItem="hPy-9q-ahr" firstAttribute="trailing" secondItem="hRV-KC-HA8" secondAttribute="trailing" constant="20" id="hop-31-Ihm"/>
+                            <constraint firstItem="hPy-9q-ahr" firstAttribute="trailing" secondItem="1d0-JC-hkc" secondAttribute="trailing" id="mgW-iA-waJ"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="hPy-9q-ahr"/>
+                    </view>
+                    <connections>
+                        <outlet property="thanksLbl" destination="hRV-KC-HA8" id="32W-k7-w59"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="4IA-O6-aMn" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="148" y="154.27286356821591"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="trajetLogo" width="236" height="57"/>
+    </resources>
+</document>

@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "Thank you for downloading Itinerum MTL. "; ObjectID = "3VY-i6-lam"; */
+"3VY-i6-lam.text" = "Thank you for downloading Itinerum MTL. ";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "7gz-Vr-kTr"; */
+"7gz-Vr-kTr.normalTitle" = "Start";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ANu-yC-YUj"; */
+"ANu-yC-YUj.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "GFd-Xg-8Fm"; */
+"GFd-Xg-8Fm.normalTitle" = "Start";
+
+/* Class = "UILabel"; text = "System access"; ObjectID = "IbA-G2-Yaa"; */
+"IbA-G2-Yaa.text" = "System access";
+
+/* Class = "UILabel"; text = "Your participation is appreciated. To help our research, please answer the following questions."; ObjectID = "NeX-po-aLS"; */
+"NeX-po-aLS.text" = "Your participation is appreciated. To help our research, please answer the following questions.";
+
+/* Class = "UILabel"; text = "We will need access to some of your device’s features to be able to gather data correctly."; ObjectID = "fYB-zW-uwB"; */
+"fYB-zW-uwB.text" = "We will need access to some of your device’s features to be able to gather data correctly.";
+
+/* Class = "UILabel"; text = "We’re going to ask a few initial questions so we can find out a little more about you.  Don’t worry, collected information will remain confidential."; ObjectID = "gky-fJ-QIn"; */
+"gky-fJ-QIn.text" = "We’re going to ask a few initial questions so we can find out a little more about you.  Don’t worry, collected information will remain confidential.";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "pDr-Co-Oyb"; */
+"pDr-Co-Oyb.normalTitle" = "Start";
+
+/* Class = "UILabel"; text = "I confirm that I am 18 or older."; ObjectID = "pcg-bg-21l"; */
+"pcg-bg-21l.text" = "I confirm that I am 18 or older.";
+
+/* Class = "UILabel"; text = "Thanks! So let’s go"; ObjectID = "rKF-Uo-pxw"; */
+"rKF-Uo-pxw.text" = "Thanks! So let’s go";

@@ -1,0 +1,103 @@
+
+/* Class = "UILabel"; text = "03:11"; ObjectID = "1ra-sc-Hon"; */
+"1ra-sc-Hon.text" = "03:11";
+
+/* Class = "UIButton"; normalTitle = "Yesterday"; ObjectID = "30E-lu-jnq"; */
+"30E-lu-jnq.normalTitle" = "Yesterday";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "3bW-sl-EnB"; */
+"3bW-sl-EnB.normalTitle" = "Retour";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "7Ks-9J-k2Y"; */
+"7Ks-9J-k2Y.normalTitle" = "Valider";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "7gN-qp-Z6I"; */
+"7gN-qp-Z6I.text" = "5";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "7kj-Ss-ICy"; */
+"7kj-Ss-ICy.text" = "1";
+
+/* Class = "UILabel"; text = "Days remaining"; ObjectID = "7mW-an-1OB"; */
+"7mW-an-1OB.text" = "Jours restants";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "81o-Gy-OO9"; */
+"81o-Gy-OO9.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "All days"; ObjectID = "AXY-tl-KcX"; */
+"AXY-tl-KcX.normalTitle" = "All days";
+
+/* Class = "UILabel"; text = "of 30"; ObjectID = "Cu6-Cp-bUI"; */
+"Cu6-Cp-bUI.text" = "of 30";
+
+/* Class = "UILabel"; text = "Location recording"; ObjectID = "H6d-xV-Jgi"; */
+"H6d-xV-Jgi.text" = "Enregistrement de localisation";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "HfD-EO-FDZ"; */
+"HfD-EO-FDZ.normalTitle" = "Save";
+
+/* Class = "UIButton"; normalTitle = "Today"; ObjectID = "JkD-QM-ByY"; */
+"JkD-QM-ByY.normalTitle" = "Today";
+
+/* Class = "UILabel"; text = "show data from"; ObjectID = "Kze-zy-UW6"; */
+"Kze-zy-UW6.text" = "Afficher les données pour";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Llx-B7-HzH"; */
+"Llx-B7-HzH.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "M7O-TJ-NDg"; */
+"M7O-TJ-NDg.normalTitle" = "Retourner";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "MaU-Iu-Fii"; */
+"MaU-Iu-Fii.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "ONj-Eb-OS1"; */
+"ONj-Eb-OS1.text" = "À propos";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "RXa-l7-x1X"; */
+"RXa-l7-x1X.normalTitle" = "Annuler";
+
+/* Class = "UILabel"; text = "7"; ObjectID = "Rfi-2F-uO3"; */
+"Rfi-2F-uO3.text" = "7";
+
+/* Class = "UILabel"; text = "03-11-2014"; ObjectID = "Xcc-eC-Ouz"; */
+"Xcc-eC-Ouz.text" = "03-11-2014";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "aTa-hP-leQ"; */
+"aTa-hP-leQ.normalTitle" = "Retourner";
+
+/* Class = "UISearchBar"; placeholder = "Search location"; ObjectID = "aWt-iB-pV9"; */
+"aWt-iB-pV9.placeholder" = "Rechercher un endroit";
+
+/* Class = "UIButton"; normalTitle = "Edit arrival date"; ObjectID = "akM-gc-ifS"; */
+"akM-gc-ifS.normalTitle" = "Edit arrival date";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "arh-DT-Lqh"; */
+"arh-DT-Lqh.normalTitle" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "azA-4B-cat"; */
+"azA-4B-cat.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "My destinations"; ObjectID = "efF-la-iTr"; */
+"efF-la-iTr.text" = "Mes destinations";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "gTY-lv-hL1"; */
+"gTY-lv-hL1.text" = "Réglages";
+
+/* Class = "UILabel"; text = "of 25"; ObjectID = "jAi-JA-8O8"; */
+"jAi-JA-8O8.text" = "of 25";
+
+/* Class = "UILabel"; text = "My destinations"; ObjectID = "les-Vg-KtG"; */
+"les-Vg-KtG.text" = "Mes destinations";
+
+/* Class = "UILabel"; text = "Ajouter une destination"; ObjectID = "mBN-5G-6ik"; */
+"mBN-5G-6ik.text" = "Ajouter une destination";
+
+/* Class = "UIButton"; normalTitle = "Custom date"; ObjectID = "oaz-Kh-Lg2"; */
+"oaz-Kh-Lg2.normalTitle" = "Custom date";
+
+/* Class = "UILabel"; text = "03-11-2014"; ObjectID = "tJm-sw-93L"; */
+"tJm-sw-93L.text" = "03-11-2014";
+
+/* Class = "UILabel"; text = "Trip Validated"; ObjectID = "yJa-2T-OPV"; */
+"yJa-2T-OPV.text" = "Dépl. validés";
+

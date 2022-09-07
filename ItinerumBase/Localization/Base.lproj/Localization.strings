@@ -1,0 +1,166 @@
+
+
+"yes" = "Yes";
+"no" = "No";
+
+"guideline_and_term_and_condition" = "This app follows these research guidelines. Please review and agree to them to use the application.";
+"allow_notifications" = "Allow notifications";
+"allow_location" = "Allow background location detection";
+"allow_activity" = "Allow background activity detection";
+"next" = "Next";
+"Location_permission" = "Location permission";
+"settings" = "Settings";
+"cancel" = "Cancel";
+"done" = "Done";
+"back" = "Back";
+"save" = "Save";
+"from_date" = "From Date";
+"to_date" = "To Date";
+"enter_date_range" = "Please enter date range";
+"of" = "of";
+"today" = "Today";
+"yesterday" = "Yesterday";
+"custom_Days" = "Custom date";
+"All_Days" = "All days";
+
+
+"map_search_bar_placeholder" = "Enter your address or slide screen";
+"network_error" = "Network connection appear to be offline";
+"pls_enter_your_input" = "Please enter your input";
+"enter_valid_email" = "Please enter valid email";
+"Location_permission_Title" = "Access to Location Not Authorized";
+"Location_permission_message" = "For Itinerum MTL to function, please allow it to access your location in Settings.";
+"Notification_permission_Title" = "Access to Notification Not Authorized";
+"Notification_permission_message" = "For Itinerum MTL to function, please allow it to access your Notification in Settings.";
+"activity_permission_title" = "Motion and Fitness";
+"activity_permission_message" = "For Itinerum MTL to function, please allow motion and fitness in Settings.";
+"complete_survey_message" = "Survey complete. \nThank you for using Itinerum MTL!\r";
+"trip_completed_alert_title" = "Congratulations!";
+"trip_completed_alert_message" = "You have validated 25 trips. You will be entered in the draw for prizes. Would you like to continue validating trips?";
+
+"select_location_on_map" = "Please select the location of the destination on the map.";
+
+// email setup
+"email_subject" = "Comments on Itinerum MTL";
+"mail_not_setup_message" = "The device doesn't have an email account setup.";
+"email_sent_message" = "Email sent successfully!";
+"email_send_fail" = "Message failed to send. Please try again later.";
+
+
+// local notification/alert
+"You_seem_stopped" = "You seem to have stopped";
+"have_reached_destination" = "Have you reached a destination?";
+"correct" = "Correct";
+"dismiss" = "Dismiss";
+"project_name" = "Itinerum MTL";
+
+// edit trip screen
+"adding_destination" = "Adding a destination";
+"notIncrement_validated_Trip" = "Adding a destination will not increment the number of validated trips.";
+"continueTile" = "Continue";
+"destination_location" = "Destination location";
+"edit_arrival_date" = "Edit arrival date";
+"edit_arrival_time" = "Edit arrival time";
+
+//settins screen alert
+"pause_recording" = "Pause recording";
+"Are_you_sur_for_pause_recording" = "Are you sure you want to stop recording your location?";
+"resume_recording" = "Resume recording";
+"Are_you_sur_for_resume_recording" = "Are you sure you want to resume recording your location?";
+
+// question 1 : Occupation
+"occupation_ques_title" = "Occupation";
+"occupation_ques" = "You are…";
+"occupation_option_1" = "A full-time worker";
+"occupation_option_2" = "A part-time worker";
+"occupation_option_3" = "A student";
+"occupation_option_4" = "Retired";
+"occupation_option_5" = "At home";
+"occupation_option_6" = "Other";
+
+// question 2 : work location
+"work_location_ques_title" = "Work location";
+"work_location_ques" = "Please indicate your approximate work location";
+
+// question 3 : home location
+"home_location_ques_title" = "Home location";
+"home_location_ques" = "Please indicate your approximate work location";
+
+// question 4 : travel to work
+"travelToWork1_ques_title" = "Travel to Work";
+"travelToWork1_ques" = "1 - What mode or (combination of modes) do you typically use to commute to your work location?";
+
+// question 5 : travel to work
+"travelToWork2_ques_title" = "Travel to Work";
+"travelToWork2_ques" = "2 - Do you use any alternative mode (or combination of modes) of travel to work?";
+
+// question 6 : study location
+"study_location_ques_title" = "Study location";
+"study_location_ques" = "Please indicate your approximate study location";
+
+// question 7 : travel to work
+"travelToStudy1_ques_title" = "Travel to Study";
+"travelToStudy1_ques" = "1 - What mode or (combination of modes) do you typically use to commute to your study location?";
+
+// question 8 : travel to work
+"travelToStudy2_ques_title" = "Travel to Study";
+"travelToStudy2_ques" = "2 - Do you use any alternative mode (or combination of modes) of travel to your study location?";
+
+// common option for "Travel to Work" and "Travel to study"
+"travelToStudyOrWork_option_1" = "Car / Motorcycle";
+"travelToStudyOrWork_option_2" = "Electric car (green lic. plate)";
+"travelToStudyOrWork_option_3" = "Bus";
+"travelToStudyOrWork_option_4" = "Metro";
+"travelToStudyOrWork_option_5" = "Train";
+"travelToStudyOrWork_option_6" = "On foot";
+"travelToStudyOrWork_option_7" = "Bicycle";
+"travelToStudyOrWork_option_8" = "Other";
+
+// common option for "Alternative Travel to Work" and "Travel to study"
+"alternativeTravelToStudyOrWork_option_1" = "No";
+"alternativeTravelToStudyOrWork_option_2" = "Car / Motorcycle";
+"alternativeTravelToStudyOrWork_option_3" = "Electric car (green lic. plate)";
+"alternativeTravelToStudyOrWork_option_4" = "Bus";
+"alternativeTravelToStudyOrWork_option_5" = "Metro";
+"alternativeTravelToStudyOrWork_option_6" = "Train";
+"alternativeTravelToStudyOrWork_option_7" = "On foot";
+"alternativeTravelToStudyOrWork_option_8" = "Bicycle";
+"alternativeTravelToStudyOrWork_option_9" = "Other";
+
+
+// question 9 : sex "male or female"
+"sex_ques_title" = "Sex";
+"sex_ques" = "";
+"sex_option_1" = "Male";
+"sex_option_2" = "Female";
+"sex_option_3" = "Other";
+"sex_option_4" = "Prefer not to answer";
+
+// question 10 : age bracket
+"age_ques_title" = "Age Bracket";
+"age_ques" = "";
+"age_option_1" = "18 - 24";
+"age_option_2" = "25 - 34";
+"age_option_3" = "35 - 44";
+"age_option_4" = "45 - 54";
+"age_option_5" = "55 - 64";
+"age_option_6" = "65 - 74";
+"age_option_7" = "75 - 84";
+"age_option_8" = "85+";
+
+// question 11 : Feed back email
+"feedback_email_ques_title" = "Email";
+"feedback_email_ques" = "Please provide your email (for raffle)";
+
+// info vc (about app)
+//1.
+"feedback" = "Feedback";
+"feedback_desc" = "";
+//2.
+"consent_agreement" = "Consent agreement";
+"consent_agreement_desc" = "TERMS OF USE OF Itinerum MTL\n\nYou are invited to closely read the following information before deciding whether or not to participate in a transportation study conducted by Concordia University.\n\nItinerum MTL is an application developed as part of a research project at Concordia University. Its use is governed by the ethics guidelines of Concordia University.\n\nA.  PURPOSE\n\nThe purpose of this research project is to collect and analyse travel behaviour data of users on the transportation network with smartphones. Based on this data (origin and destination of trips, number of trips, transportation modes, etc.) we will be better able to predict mobility demand and plan the development of the transport network as a function of the needs of users.\n\nB.   PROCEDURES\n\n·      Participation in this survey will be done through my smartphone\n·      I will be asked a few questions regarding socio-demographic information about me and my household\n·      I will be asked to participate in this survey for up to 30 days\n·      During my participation in this survey, locational information will be collected automatically and then transmitted and recorded securely and automatically on servers hosted in Canada and administered by Professor Zachary Patterson of Concordia University\n·      The privacy of data collected will be respected and the information that could reveal the identity of participants, directly or indirectly, will not be disseminated.\n· \n\nD.   CONDITIONS OF PARTICIPATION\n\n•     I understand that I must be 18 years of age or older to participate in this study.\n\n·      I understand that my participation is entirely voluntary and that I am free to withdraw my consent and discontinue my participation at any time (by deleting the Itinerum MTL app) without consequences.\n\n·      I understand that should I withdraw from the study, any data collected up until my withdrawal will remain as part of the survey database with Concordia University to be used exclusively for research purposes\n\n•     I understand that my participation in this study is confidential (i.e., collected data will only be shared with Concordia University\n\n•     I understand that the results from analysis of this data may be published, but will not be presented in such a way that my identity could be revealed.\n\n•     E. DECLARATION OF CONSENT\n\nBy pressing the button below, I confirm that I have attentively read and understood the above consent and the information presented, and I attest to the fact that my consent is informed, that all of my questions have been answered to my satisfaction and that I have had sufficient time to decide whether I want to participate in this study. I freely and voluntarily consent to participate in this study.\n\nI ACCEPT THESE CONDITIONS (mandatory to participate in the study)";
+//3.
+"About_Itinerum MTL" = "About Itinerum MTL";
+"About_Itinerum_MTL_desc" = "By using Itinerum MTL, you are at the heart of an ongoing research project! Itinerum MTL is an implementation of Itinerum, a travel survey application developed at Concordia University. By allowing the app to run in the background of your phone, you will share information on your trips for up to 30 days. The application will allow us to test and develop methods to better understand travel behaviour through the use of smartphones. Ultimately, your participation will help us improve transportation planning.\nIf you would like to report a technical problem, please send an email to:\nzachary.patterson@concordia.ca";
+
+
