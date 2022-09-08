@@ -1,0 +1,36 @@
+
+/* Class = "UISearchBar"; placeholder = "Search location"; ObjectID = "79s-dP-VYW"; */
+"79s-dP-VYW.placeholder" = "Search location";
+
+/* Class = "UILabel"; text = "Please indicate your approximate home location"; ObjectID = "D9D-u0-7le"; */
+"D9D-u0-7le.text" = "Please indicate your approximate home location";
+
+/* Class = "UILabel"; text = "Question"; ObjectID = "DjT-Kb-ISB"; */
+"DjT-Kb-ISB.text" = "Question";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "IEb-08-aq3"; */
+"IEb-08-aq3.normalTitle" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "WVX-iO-KtJ"; */
+"WVX-iO-KtJ.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Number of people"; ObjectID = "YBV-kb-zu9"; */
+"YBV-kb-zu9.text" = "Number of people";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "bME-fp-Wkq"; */
+"bME-fp-Wkq.normalTitle" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "e4r-aV-qjM"; */
+"e4r-aV-qjM.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oo9-lK-6g5"; */
+"oo9-lK-6g5.text" = "Label";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "pHR-8R-JD1"; */
+"pHR-8R-JD1.text" = "3";
+
+/* Class = "UILabel"; text = "Home location"; ObjectID = "tYF-Hq-00F"; */
+"tYF-Hq-00F.text" = "Home location";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "xFY-vQ-yU5"; */
+"xFY-vQ-yU5.normalTitle" = "Next";

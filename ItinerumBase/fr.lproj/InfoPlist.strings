@@ -1,0 +1,12 @@
+/* 
+  InfoPlist.strings
+  ItinerumBase
+
+  Created by Chandramani choudhary on 9/23/18.
+  Copyright © 2018 Chandramani choudhary. All rights reserved.
+*/
+
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Pour permettre à Itinerum MTL de fonctionner, veuillez autoriser l’accès aux services de localisation \"Toujours\" dans les Réglages.";
+"NSLocationWhenInUseUsageDescription" = "Pour permettre à Itinerum MTL de fonctionner, veuillez autoriser l’accès aux services de localisation \"Toujours\" dans les Réglages.";
+"NSLocationAlwaysUsageDescription" = "Pour permettre à Itinerum MTL de fonctionner, veuillez autoriser l’accès aux services de localisation \"Toujours\" dans les Réglages.";
+"NSMotionUsageDescription" = "Itinerum MTL enregistre vos déplacements tout au long de la journée.";

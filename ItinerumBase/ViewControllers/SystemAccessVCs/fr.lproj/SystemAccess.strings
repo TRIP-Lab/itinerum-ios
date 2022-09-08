@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "Merci d’avoir téléchargé Itinerum MTL. "; ObjectID = "3VY-i6-lam"; */
+"3VY-i6-lam.text" = "Merci d’avoir téléchargé Itinerum MTL. ";
+
+/* Class = "UIButton"; normalTitle = "Suivant"; ObjectID = "7gz-Vr-kTr"; */
+"7gz-Vr-kTr.normalTitle" = "Suivant";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ANu-yC-YUj"; */
+"ANu-yC-YUj.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Suivant"; ObjectID = "GFd-Xg-8Fm"; */
+"GFd-Xg-8Fm.normalTitle" = "Suivant";
+
+/* Class = "UILabel"; text = "Merci d’avoir téléchargé Itinerum MTL. "; ObjectID = "IbA-G2-Yaa"; */
+"IbA-G2-Yaa.text" = "Merci d’avoir téléchargé Itinerum MTL. ";
+
+/* Class = "UILabel"; text = "Votre participation est grandement appréciée.\rAfin de faciliter l’analyse de vos données, veuillez répondre aux questions suivantes."; ObjectID = "NeX-po-aLS"; */
+"NeX-po-aLS.text" = "Votre participation est grandement appréciée.\rAfin de faciliter l’analyse de vos données, veuillez répondre aux questions suivantes.";
+
+/* Class = "UILabel"; text = "Votre participation est grandement appréciée.\rAfin de faciliter l’analyse de vos données, veuillez répondre aux questions suivantes."; ObjectID = "fYB-zW-uwB"; */
+"fYB-zW-uwB.text" = "Votre participation est grandement appréciée.\rAfin de faciliter l’analyse de vos données, veuillez répondre aux questions suivantes.";
+
+/* Class = "UILabel"; text = "Nous aimerions maintenant vous poser quelques questions afin de mieux vous connaître.  Toutes les informations recueillies resteront confidentielles."; ObjectID = "gky-fJ-QIn"; */
+"gky-fJ-QIn.text" = "Nous aimerions maintenant vous poser quelques questions afin de mieux vous connaître.  Toutes les informations recueillies resteront confidentielles.";
+
+/* Class = "UIButton"; normalTitle = "Suivant"; ObjectID = "pDr-Co-Oyb"; */
+"pDr-Co-Oyb.normalTitle" = "Suivant";
+
+/* Class = "UILabel"; text = "Je confirme avoir 18 ans ou plus."; ObjectID = "pcg-bg-21l"; */
+"pcg-bg-21l.text" = "Je confirme avoir 18 ans ou plus.";
+
+/* Class = "UILabel"; text = "Merci!\nMaintenant allons-y !"; ObjectID = "rKF-Uo-pxw"; */
+"rKF-Uo-pxw.text" = "Merci!\nMaintenant allons-y !";

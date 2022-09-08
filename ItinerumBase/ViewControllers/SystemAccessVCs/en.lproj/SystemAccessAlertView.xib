@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="20037" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="20020"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="NunitoSans-ExtraBold.ttf">
+            <string>NunitoSans-ExtraBold</string>
+        </array>
+        <array key="NunitoSans-Regular.ttf">
+            <string>NunitoSans-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="SystemAccessAlertView" customModule="ItinerumBase" customModuleProvider="target"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view tag="1001" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="LwB-3B-gnu">
+                    <rect key="frame" x="20" y="30" width="335" height="607"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="FnF-nV-aTL" customClass="CustomButton" customModule="ItinerumBase" customModuleProvider="target">
+                            <rect key="frame" x="52.5" y="532" width="230" height="55"/>
+                            <color key="backgroundColor" red="0.93725490199999995" green="0.20000000000000001" blue="0.2470588235" alpha="1" colorSpace="calibratedRGB"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="55" id="S4R-pB-8tE"/>
+                                <constraint firstAttribute="width" constant="230" id="SGs-Qo-UXU"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="NunitoSans-ExtraBold" family="Nunito Sans" pointSize="16"/>
+                            <state key="normal" title="I agree"/>
+                            <connections>
+                                <action selector="greenButtonAction:" destination="-1" eventType="touchUpInside" id="haM-5a-sAF"/>
+                            </connections>
+                        </button>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lMp-ju-YNf">
+                            <rect key="frame" x="15" y="20" width="305" height="123"/>
+                            <constraints>
+                                <constraint firstAttribute="height" priority="250" constant="122" id="nFV-8p-fow"/>
+                            </constraints>
+                            <string key="text">Participant
+consent form</string>
+                            <fontDescription key="fontDescription" name="NunitoSans-ExtraBold" family="Nunito Sans" pointSize="45"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" textAlignment="natural" adjustsFontForContentSizeCategory="YES" translatesAutoresizingMaskIntoConstraints="NO" id="UES-j1-Sc0">
+                            <rect key="frame" x="15" y="158" width="305" height="359"/>
+                            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <mutableString key="text">TERMS OF USE OF Itinerum MTL
+
+You are invited to closely read the following information before deciding whether or not to participate in a transportation study conducted by Concordia University.
+ 
+Itinerum MTL is an application developed as part of a research project by Concordia University. Its use is governed by the ethics guidelines of Concordia University.
+ 
+A.  PURPOSE
+ 
+The purpose of this research project is to collect and analyse travel behaviour data of users on the transportation network with smartphones. Based on this data (origin and destination of trips, number of trips, transportation modes, etc.) we will be better able to predict mobility demand and plan the development of the transport network as a function of the needs of users.
+ 
+B.   PROCEDURES
+ 
+·      Participation in this survey will be done through my smartphone
+·      I will be asked a few questions regarding socio-demographic information about me and my household
+·      I will be asked to participate in this survey for up to 30 days
+·      During my participation in this survey, locational information will be collected automatically and then transmitted and recorded securely and automatically on servers hosted in Canada and administered by Professor Zachary Patterson of Concordia University
+·      To be eligible for the draw for prizes, participants must to reside in the Montreal Urban Community and have provided their email address.
+·      The raw data collected as part of this study will only be used for the purposes of this project and will be available only to researchers of Zachary Patterson’s TRIP Laboratory and be subject to the Act respecting Access to documents held by public bodies and the Protection of personal information (chapter A-2.1).
+·      The privacy of data collected will be respected and the information that could reveal the identity of participants, directly or indirectly, will not be disseminated.
+
+ 
+
+C.  CONDITIONS OF PARTICIPATION
+ 
+•     I understand that I must be 18 years of age or older to participate in this study.
+ 
+·      I understand that my participation is entirely voluntary and that I am free to withdraw my consent and discontinue my participation at any time (by deleting the Itinerum MTL app) without consequences.
+ 
+·      I understand that should I withdraw from the study, any data collected up until my withdrawal will remain as part of the survey database with Concordia University to be used exclusively for research purposes
+ 
+•     I understand that my participation in this study is confidential (i.e., collected data will only be shared with Concordia University)
+ 
+•     I understand that the results from analysis of this data may be published, but will not be presented in such a way that my identity could be revealed. 
+ 
+D. DECLARATION OF CONSENT
+ 
+By pressing the button below, I confirm that I have attentively read and understood the above consent and the information presented, and I attest to the fact that my consent is informed, that all of my questions have been answered to my satisfaction and that I have had sufficient time to decide whether I want to participate in this study. I freely and voluntarily consent to participate in this study.
+ 
+I ACCEPT THESE CONDITIONS (mandatory to participate in the study)
+
+</mutableString>
+                            <fontDescription key="fontDescription" name="NunitoSans-Regular" family="Nunito Sans" pointSize="20"/>
+                            <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                        </textView>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4uT-7N-o5k">
+                            <rect key="frame" x="295" y="0.0" width="40" height="40"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="40" id="dVE-K8-9gQ"/>
+                                <constraint firstAttribute="width" constant="40" id="ihv-bB-oXa"/>
+                            </constraints>
+                            <state key="normal" image="close button">
+                                <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </state>
+                            <userDefinedRuntimeAttributes>
+                                <userDefinedRuntimeAttribute type="color" keyPath="shadowColor">
+                                    <color key="value" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </userDefinedRuntimeAttribute>
+                            </userDefinedRuntimeAttributes>
+                            <connections>
+                                <action selector="closeButtonAction:" destination="-1" eventType="touchUpInside" id="mXM-Az-hUi"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstItem="FnF-nV-aTL" firstAttribute="centerX" secondItem="LwB-3B-gnu" secondAttribute="centerX" id="24r-c6-w9l"/>
+                        <constraint firstItem="UES-j1-Sc0" firstAttribute="leading" secondItem="LwB-3B-gnu" secondAttribute="leading" constant="15" id="2l4-qT-egh"/>
+                        <constraint firstItem="lMp-ju-YNf" firstAttribute="top" secondItem="LwB-3B-gnu" secondAttribute="top" constant="20" id="3n3-l3-A69"/>
+                        <constraint firstAttribute="bottom" secondItem="FnF-nV-aTL" secondAttribute="bottom" constant="20" id="7Rq-Qd-tYR"/>
+                        <constraint firstItem="UES-j1-Sc0" firstAttribute="top" secondItem="lMp-ju-YNf" secondAttribute="bottom" constant="15" id="CsE-Va-rm5"/>
+                        <constraint firstItem="FnF-nV-aTL" firstAttribute="top" secondItem="UES-j1-Sc0" secondAttribute="bottom" constant="15" id="Pf6-xy-FAb"/>
+                        <constraint firstAttribute="trailing" secondItem="4uT-7N-o5k" secondAttribute="trailing" id="Sap-IG-ezm"/>
+                        <constraint firstItem="lMp-ju-YNf" firstAttribute="leading" secondItem="LwB-3B-gnu" secondAttribute="leading" constant="15" id="UsC-Qg-8xW"/>
+                        <constraint firstAttribute="trailing" secondItem="lMp-ju-YNf" secondAttribute="trailing" constant="15" id="eKE-BH-xf5"/>
+                        <constraint firstItem="4uT-7N-o5k" firstAttribute="top" secondItem="LwB-3B-gnu" secondAttribute="top" id="vIz-Gb-6TI"/>
+                        <constraint firstAttribute="trailing" secondItem="UES-j1-Sc0" secondAttribute="trailing" constant="15" id="yBC-bX-TZH"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="LwB-3B-gnu" secondAttribute="bottom" constant="30" id="9p0-Ko-Gui"/>
+                <constraint firstItem="LwB-3B-gnu" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="20" id="AIH-xv-0KZ"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="LwB-3B-gnu" secondAttribute="trailing" constant="20" id="GMv-0S-ayb"/>
+                <constraint firstItem="LwB-3B-gnu" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" constant="30" id="mMK-nT-mpb"/>
+            </constraints>
+            <point key="canvasLocation" x="33.5" y="53.5"/>
+        </view>
+    </objects>
+    <designables>
+        <designable name="FnF-nV-aTL">
+            <size key="intrinsicContentSize" width="52" height="34"/>
+        </designable>
+    </designables>
+    <resources>
+        <image name="close button" width="30" height="30"/>
+    </resources>
+</document>
